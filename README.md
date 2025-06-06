@@ -6,7 +6,7 @@
 ![Badge](https://img.shields.io/badge/API-integration-4c9d1f?&logo=api)
 
 
-### **Music Box** é uma aplicação front-end que representa um dicionário músical desenvolvido para facilitar o aprendizado de **react** em contextos acadêmicos. Esse projeto visa ajudar os alunos da Faculdade [@SPTECH](https://github.com/BandTec) em projetos na disciplina de Pesquisa e Inovação.
+### **Music Box** é uma aplicação front-end que representa um dicionário músical desenvolvido para facilitar o aprendizado de **react** em contextos acadêmicos. 
 #
 ### **Tópicos abordados:**
 Transformação de site (HTML e CSS) em projeto React, incluindo:
