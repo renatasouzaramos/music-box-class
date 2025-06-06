@@ -38,10 +38,5 @@ npm start
 ![image](https://user-images.githubusercontent.com/53584199/191583425-afc56c06-1cae-4594-bc62-fc5805524b79.png)
 
 
-#
 
-## Criado por
-- @joaopedpaula (joao.paula@sptech.school)
-- @reisrb (rafael.reis@sptech.school)
-- @miniguiti (giuliana.franca@sptech.school)
-- @fernandacaramico (fernanda.caramico@sptech.school)
+
